@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Typhoon Sepat expected to hit Taiwan
+categories:
+- Taiwan
+tags:
+- typhoon
 ---
 
 <p align="left"><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/08/typhoon.jpg" title="Edited by me"></a>Typhoon Sepat is expected to hit Taiwan today across the island with a landfall expected in the evening or early saturday morning ...already strong wind has started ... here are some SAT images taken this morning depicting due course of the typhoon

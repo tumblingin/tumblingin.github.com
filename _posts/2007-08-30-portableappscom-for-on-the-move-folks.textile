@@ -1,6 +1,10 @@
 ---
 layout: post
 title: portableapps.com for on-the-move folks
+categories:
+- Taiwan
+tags:
+- news
 ---
 
 I came across this website <a target="_blank" href="http://portableapps.com/">portableapps.com</a>  [The link won't work in IE 6 BTW...atleast for me it didn't work]. They have got bunch of applications which are "portable" meaning u can carry them on a flash drive,iPod or portable hard drive with you. In short you can carry your favorite programs with your personal settings,bookmarks, emails and so on with you & use them from any windows based machine. The best part is you need not worry about leaving any personal data behind. Just plug-in your portable memory and use them as you would use them on your local machine. These portable applications are lighter versions of their full-featured, heavy & install-me originals.
