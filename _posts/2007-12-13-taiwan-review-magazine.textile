@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Taiwan Review Magazine
+categories:
+- Taiwan
+tags:
+- life
 ---
 
 While I was mulling over which Magazine I should look forward to for quite sometime, after learning <a href="http://money.cnn.com/magazines/business2/" target="_blank">Busness 2.0</a> had its <a href="http://www.techcrunch.com/2007/09/19/business-20-the-final-cover/" target="_blank">last print edition in Oct 2007</a>, my eyes were laid upon this seemingly unattractive cover of Taiwan Review magazine in a bookstore.

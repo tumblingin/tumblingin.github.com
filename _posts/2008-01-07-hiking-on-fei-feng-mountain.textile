@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Hiking on Fei Feng Mountain
+categories:
+- Taiwan
+tags:
+- travel
+- hiking
+- hsinchu
 ---
 
 Yesterday I went hiking on Fei Feng Mountain in Hsinchu. What an incredible time I had especially given last two weeks were as treacherous as  it could get. I was working at customer site to implement our system and resolve any issues that occurred.  I really needed to unwind and take my mind from off the otherwise mundane things that I do in my daily life.

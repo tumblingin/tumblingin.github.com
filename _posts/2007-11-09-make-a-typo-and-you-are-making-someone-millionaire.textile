@@ -1,6 +1,10 @@
 ---
 layout: post
 title: make a typo and you are making someone millionaire
+categories:
+- Taiwan
+tags:
+- news
 ---
 
 I typed thenhbushman.cm this afternoon and was directed to <a target="_blank" href="http://www.agoga.com">agoga.com</a>. Notice the "cm" instead of "com"[n yes i still prefer to type into address bar handful of websites that I visit frequently instead of bookkeeping urls in favorites :P guilty]. First thought in my mind was that my system might have got some adware~spyware which redirected me to agoga.com but fortunately that wasn't the case. Now I know there are thousands of web sites with misspelled domain names which are very close to other popular sites. But there is nothing common in "thenhbushman.cm" and "agoga.com". So I did a small research on agoga.com and was led to this <a target="_blank" href="http://money.cnn.com/magazines/business2/business2_archive/2007/06/01/100050989/index.htm?postversion=2007052214">The man who owns the Internet</a> Business 2.0 magazine article. Whoa I was stunned after reading about Kevin Ham, a dotcom mogul who owns agoga.com.

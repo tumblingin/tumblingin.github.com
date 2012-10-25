@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Hao Jiu Bu Jian
+categories:
+- Taiwan
+tags:
+- life
+- photography
 ---
 
 <a title="Long time no see by ashishlin, on Flickr" href="http://www.flickr.com/photos/ashishlin/2914815672/"><img src="http://farm4.static.flickr.com/3139/2914815672_3c9ac441c7.jpg" alt="Long time no see" width="500" height="333" /></a>

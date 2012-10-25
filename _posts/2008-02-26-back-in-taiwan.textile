@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Back in Taiwan
+categories:
+- India
+tags:
+- life
 ---
 
 I wish I could say 'Back with a Bang' but on the contrary I was banged by Taiwan's bone chilling cold weather on my return.

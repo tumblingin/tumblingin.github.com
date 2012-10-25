@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Weekend party and some karaoke fun
+categories:
+- Taiwan
+tags:
+- taipei
 ---
 
 Saturday night I went to Taipei to meet my colleagues and join a dinner party. The reason of the party was to celebrate Ray and his girlfriend Clair's 5 years of being together.

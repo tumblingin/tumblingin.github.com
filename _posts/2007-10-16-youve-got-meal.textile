@@ -1,6 +1,10 @@
 ---
 layout: post
 title: You've Got Meal
+categories:
+- Taiwan
+tags:
+- life
 ---
 
 <a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0016.jpg" title="Fried Shrimp Rice Box"></a>

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: who needs a hosted domain
+categories:
+- Taiwan
+tags:
+- blogging
 ---
 
 Yesterday, wordpress announced that blogs hosted at wordpress.com <a href="http://wordpress.com/blog/2008/01/21/three-gigabytes/" title="Wordpress announces 60x boost" target="_blank">will get 60x boost</a>.  Meaning blogs like this one will have 3 GB storage space for FREE. That makes a wordpress blog three times bigger than a Blogger blog and well for typepad you need to empty your pockets for space that big.

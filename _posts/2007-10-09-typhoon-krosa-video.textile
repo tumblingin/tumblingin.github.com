@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Typhoon Krosa Video
+categories:
+- Taiwan
+tags:
+- typhoon
+- jhongli
 ---
 
 <a href="http://www.flickr.com/photos/14745466@N03/1520817861/" title="Photo Sharing"><img align="left" width="240" src="http://farm3.static.flickr.com/2036/1520817861_d270115ef1_m.jpg" alt="Looking through window during typhoon Krosa" height="180" /></a>

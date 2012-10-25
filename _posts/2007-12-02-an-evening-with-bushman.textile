@@ -1,6 +1,12 @@
 ---
 layout: post
 title: An evening with Bushman
+categories:
+- Taiwan
+tags:
+- life
+- hukou
+- hsinchu
 ---
 
 Finally I had a chance to meet one of the prominent and talented Taiwan Blogger Michel J Klein aka The NH Bushman. He hosts a hugely popular blog on Taiwan known as <a target="_blank" href="http://www.thenhbushman.com" title="The New Hampshire Bushman">thenhbushman.com</a>

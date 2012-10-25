@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Visit to Mt. Bagua Scenic Area in Changhua
+categories:
+- Taiwan
+tags:
+- travel
+- changhua
 ---
 
 Last weekend I went to <a href="http://www.chcg.gov.tw/english/index.asp" title="changhua County govt." target="_blank">Changhua</a>, a modest town in south of Taiwan. Changhua is home to a  huge statue of Buddha situated at the top of a hill known as Mt. Bagua. One can probably see Bagaushan from anywhere in Changhua.

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Mystery box has arrived
+categories:
+- Taiwan
+tags:
+- life
 ---
 
 Late in the  morning yesterday, Frances, who takes care of almost anything from administration to hiring new people to arranging meetings/outings to business travels in our company,appeared at my desk with a US postals brown box addressed to me. It took me several seconds to realize that I had received a shipment because I don't get a mail a great deal here. In fact the only bundle I ever received in Taiwan before contained my papers that I needed to file for work visa.

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: a word on hard working taiwanese and recent ramblings
+categories:
+- Taiwan
+tags:
+- life
 ---
 
 Couple of days ago I was chatting with my close friend Abhijit on yahoo messenger. He is working in Stockholm, Sweden nowadays. Rise of India in Software has presented great opportunities to Indian people to travel overseas for work. Many of my friends, classmates and acquaintances are working overseas these days. Generally my chat with them includes discussions about different cultures and living conditions. Working in Taiwan has really opened my eyes to whole new world of different cultures. Meeting and interacting with people from all over the world has been incredible experience so far and I am loving it :)

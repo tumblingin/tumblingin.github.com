@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Day trip to Yilan
+categories:
+- Taiwan
+tags:
+- yilan
+- travel
 ---
 
 Company that I work for is in its early years and couple of months ago someone realized we haven't been out as a group hence it was decided we would head out on May 1st for an outing. Since it was Thurday and we had to work the next day, we opted out of Hiking and instead went for a leisurely late morning walk followed by a lunch late afternoon.

@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Indian Cricket League
+categories:
+- Taiwan
+tags:
+- news
+- sports
 ---
 
 Came across this <a target="_blank" href="http://www.tehelka.com/story_main33.asp?filename=op080907Not_a.asp">great article</a> by CricInfo editor Anand Vasu on Tehelka.com. Mr. Vasu has given a fair idea about <a target="_blank" href="http://www.indiancricketleague.in/AboutICL/frm_AboutICL.aspx?PID=1">what is ICL</a> and then questions about their Business proposition. All in all ariticle is very well written with failry accurate information about ICL proceedings and ICL players but the thing that bothered me much reading the article was the negative tone used throughtout the article towards ICL. For example it ends with

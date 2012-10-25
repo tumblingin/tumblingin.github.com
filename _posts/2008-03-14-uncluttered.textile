@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Uncluttered...
+categories:
+- Taiwan
+tags:
+- life
+- jhubei
 ---
 
 <a href="http://www.flickr.com/photos/14745466@N03/2332134837/" title="Cluttered by ashishlin, on Flickr"><img src="http://farm4.static.flickr.com/3130/2332134837_ee5b348681.jpg" alt="Cluttered" height="375" width="500" /></a>

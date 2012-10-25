@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Visit to Yangmingshan
+categories:
+- Taiwan
+tags:
+- travel
+- taipei
+- yangmingshan
+- hiking
 ---
 
 _[Just a quick note before you read the post. I haven't posted for a while as things had got real hectic after coming back from India. Now it seems like the tide has moved back a little bit giving me some space to breathe. Hopefully I will be able to write more consistently to improve on my writing and also keep you guys informed that I'm still here]_

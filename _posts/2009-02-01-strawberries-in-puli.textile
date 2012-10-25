@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Strawberries in Puli
+categories:
+- Taiwan
+tags:
+- travel
+- miaoli
 ---
 
 <a href="http://www.flickr.com/photos/ashishlin/3243869786/" title="strawerry farm, puli by ashishlin, on Flickr"><img src="http://farm4.static.flickr.com/3501/3243869786_e4b63a9be3.jpg" width="500" height="334" alt="strawerry farm, puli" /></a>

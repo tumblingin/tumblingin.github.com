@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Mr and Mrs Ashlin
+categories:
+- Taiwan
+- India
+tags:
+- life
 ---
 
 <a href="http://www.flickr.com/photos/ashishlin/2732542766/" title="Rings by ashishlin, on Flickr"><img src="http://farm4.static.flickr.com/3106/2732542766_52040e6a0f.jpg" width="500" height="375" alt="Rings" /></a>

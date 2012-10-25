@@ -1,6 +1,10 @@
 ---
 layout: post
 title: How can we differentiate between genuine and fake orkut profiles?
+categories:
+- Taiwan
+tags:
+- news
 ---
 
 I came across this blog <a target="_blank" href="http://www.mamasaysom.com/main/2007/10/7/orkut-users-stealing-photos-of-children-from-flickr-accounts.html">post</a> on <a target="_blank" href="http://www.mamasaysom.com">mamasaysom.com</a>. Most orkut users know that there are quetionable number of fake orkut profiles created by some morons. This post I am referring to talks about fake orkut profiles being created using children images stolen from flikr. This is really a sad situation for the families of these kids. Number of parents of these kids have started a movement to make Orkut owned by Google to take notice of these pervert actions but seems like the response from Google isn't great.

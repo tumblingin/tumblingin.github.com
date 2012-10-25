@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Dragon boat festival vacation
+categories:
+- Taiwan
+tags:
+- changhua
+- festival
+- travel
 ---
 
 Better late than never ;) Here are some pictures from dragon boat festival vacation that we spent in Changhua and Nantou county.

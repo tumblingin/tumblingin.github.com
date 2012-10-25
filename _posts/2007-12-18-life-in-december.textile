@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Life In December
+categories:
+- Taiwan
+tags:
+- life
+- jhubei
 ---
 
 Things have got really hectic lately. I must finish 2 important projects before I head for my Christmas vacation in Brisbane, Australia. I am quite excited about it. More about it in coming posts.

@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Weekend at Jiufen
+categories:
+- Taiwan
+tags:
+- travel
+- jiufen
+- taipei
 ---
 
 Well <a href="http://wikitravel.org/en/Jiufen">Jiufen</a> is known for many things. It is a popular weekend getaway for Taipei residents and a tourist attraction. One can enjoy a magnificent vista of surrounding mountains and their foothills merging into sea or hike on Mt. Jilong for a beautiful seascape or visit <a href="http://wikitravel.org/en/Jinguashi">Jinguashi</a> for another handful of tourist attractions.  I and Selina decided to spend a relaxing afternoon there. Our plan was to step through the alleys of Jiufen old street, visit one of the many teahouses on Jinshan street for an afternoon tea and possibly in the late evening have a good look at the well talked about night-view from Jiufen and then head back to Taipei.

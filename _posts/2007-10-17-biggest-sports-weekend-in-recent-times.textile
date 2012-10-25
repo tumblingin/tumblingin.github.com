@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Biggest Sports Weekend In Recent Times
+categories:
+- Taiwan
+tags:
+- news
+- sports
 ---
 
 <table border="0" width="100%">

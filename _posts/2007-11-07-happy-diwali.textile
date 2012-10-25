@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Happy Diwali
+categories:
+- Taiwan
+tags:
+- news
 ---
 
 <a href="http://tumbling.in/taiwan/wp-content/uploads/2007/11/happy_diwali_big1.jpg" title="Happy Diwali"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/11/happy_diwali_big1.jpg" title="Happy Diwali"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/11/happy_diwali_big1.jpg" title="Happy Diwali"></a>

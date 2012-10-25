@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Since friday morning
+categories:
+- Taiwan
+tags:
+- life
+- jhubei
 ---
 
 <span style="font-family:Calibri;font-size:1.2em;">

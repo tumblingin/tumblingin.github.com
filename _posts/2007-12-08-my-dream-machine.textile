@@ -1,6 +1,10 @@
 ---
 layout: post
 title: My Dream Machine
+categories:
+- Taiwan
+tags:
+- life
 ---
 
 <a href="http://www.flickr.com/photos/14745466@N03/2093027884/" title="My Dream Machine by ashishlin, on Flickr"><img src="http://farm3.static.flickr.com/2112/2093027884_6f9ee7cefc.jpg" alt="My Dream Machine" height="375" width="500" /></a>
