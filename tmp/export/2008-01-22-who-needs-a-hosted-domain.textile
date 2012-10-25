@@ -1,8 +1,0 @@
----
-layout: post
-title: who needs a hosted domain
----
-
-Yesterday, wordpress announced that blogs hosted at wordpress.com <a href="http://wordpress.com/blog/2008/01/21/three-gigabytes/" title="Wordpress announces 60x boost" target="_blank">will get 60x boost</a>.  Meaning blogs like this one will have 3 GB storage space for FREE. That makes a wordpress blog three times bigger than a Blogger blog and well for typepad you need to empty your pockets for space that big.
-
-Blogger being a Google baby can always  stretch this free space competition to the limits but I was wondering how many bloggers out there really need that much space. Couple of weeks ago I was pondering over moving to my own domain. Its not like I was thinking of hosting a focussed blog and generating some killer content to generate loads of money. At the moment and in the near future I don't see myself blogging very seriously. Move to new domain is for the sake of having fun with all interesting things that I can learn about hosting a website, tweaking blog design and playing with blog gadgets. For me blogging is for fun. I may appear to be more excited from the announcement but I am not. I certainly do not need 3 GB space for my blog given that most of my pictures are on Flickr and Videos on youtube. I don't know why but it does give me a sense of security.

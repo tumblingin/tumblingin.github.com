@@ -1,6 +1,0 @@
----
-layout: post
-title: Sweden
----
-
-Sweden as seen on Google Earth
