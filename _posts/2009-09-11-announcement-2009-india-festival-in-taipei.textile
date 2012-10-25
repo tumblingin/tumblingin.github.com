@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Announcement - 2009 India Festival in Taipei
+categories:
+- Taiwan
+tags:
+- announcement
 ---
 
 Just got this in a mail from <a href="http://www.india.org.tw/003/index.aspx">India Taipei Association</a>. Formal announcement by ITA <a href="http://www.india.org.tw/003/news_con.aspx?pid=P_00000071&insid=1">here</a>

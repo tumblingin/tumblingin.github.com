@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Saturday in Miaoli
+categories:
+- Taiwan
+tags:
+- weekend
+- travel
+- miaoli
 ---
 
 Many thanks to <a href="http://www.thenhbushman.com">MJ</a> & Hui-Chen for inviting us to a BBQ party at the Miaoli cabin and we are also very grateful to Becky and family for their hospitality at the cabin. MJ has already written a <a href="http://www.thenhbushman.com/2009/07/06/miaoli-in-july">detailed account</a> on the day with loads of food pictures. What a wonderful place it is to spend a weekend relaxing, bbqing, listening to great music and talking with friends.

@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Bloody swine flu
+categories:
+- India
+tags:
+- news
+- pune
 ---
 
 Two countries, India and Taiwan where I have spent extended period of my life on this blue planet are battling against disasters. One left trail of catastrophic damages and thousands homeless while another one has potential to overwhelm whole world in the future. Taiwan is still reeling in typhoon morakot aftermath while India is grappling with Swine Flu (H1N1) and desperately trying to arrest the spread of it.

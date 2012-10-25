@@ -1,6 +1,11 @@
 ---
 layout: post
 title: getting filmy
+categories:
+- Taiwan
+tags:
+- photography
+- taipei
 ---
 
 Some film exposures for a change. My father bought this plastic lens film camera when I was, if memory serves correct, in elementary school. Couple weeks ago I stuffed one roll in it and took 36 exposures in two days. Most of them were underexposed. Here are some of the better ones.

@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Yongan fish harbor
+categories:
+- Taiwan
+tags:
+- life
+- weekend
+- travel
+- taoyuan
 ---
 
 <a href="http://www.flickr.com/photos/ashishlin/6096969512/" title="snacks by ashishlin, on Flickr"><img src="http://farm7.static.flickr.com/6205/6096969512_45a002b344.jpg" width="500" height="278" alt="snacks"></a>

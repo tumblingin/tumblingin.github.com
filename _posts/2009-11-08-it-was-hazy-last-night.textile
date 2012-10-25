@@ -1,6 +1,11 @@
 ---
 layout: post
 title: it was hazy last night
+categories:
+- Taiwan
+tags:
+- photography
+- yangmei
 ---
 
 Weather has been struggling to get cooler here in Taiwan. It was much cooler last weekend this time but then it is back to being sunny and hot past couple days. Last night though it was unusally hazy. After putting susan to bed I stood by the window and could barely see the street below.

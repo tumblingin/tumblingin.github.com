@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Krishna Janmashtami celebrations in Taipei
+categories:
+- Taiwan
+tags:
+- life
+- feastival
+- taipei
 ---
 
 Last Sunday India observed 'Krishna Janmashtami', one of the many widely celebrated festivals across India that marks a joyful celebration of <a href="http://en.wikipedia.org/wiki/Lord_Krishna">Lord Krishna</a>'s birth. Major celebrations of Krishna Janmashtami takes place at midnight as Krishna is said to have made his divine appearance in that hour.

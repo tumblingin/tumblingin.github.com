@@ -1,6 +1,10 @@
 ---
 layout: post
 title: susan latest pics
+categories:
+- Taiwan
+tags:
+- kids
 ---
 
 some latest photos of susan shot with EOS 5 QD and 50mm f1.8 II. This is the the first roll that I have shot with it and as you will see I have a lot to learn.

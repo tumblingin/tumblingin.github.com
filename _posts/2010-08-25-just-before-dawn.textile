@@ -1,6 +1,11 @@
 ---
 layout: post
 title: just before dawn
+categories:
+- Taiwan
+tags:
+- photography
+- sanxia
 ---
 
 

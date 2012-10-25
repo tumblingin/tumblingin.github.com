@@ -1,6 +1,13 @@
 ---
 layout: post
 title: xiao wulai waterfall
+categories:
+- Taiwan
+tags:
+- life
+- weekend
+- travel
+- taoyuan
 ---
 
 Beginning of this month we took Susan to see <a href="http://www.taiwanderful.net/guides/xiao-wulai-waterfall">Xiao Wulai waterfall</a> in Taoyuan county. 
