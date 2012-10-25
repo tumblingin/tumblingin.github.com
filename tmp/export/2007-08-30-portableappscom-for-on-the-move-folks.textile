@@ -1,0 +1,23 @@
+---
+layout: post
+title: portableapps.com for on-the-move folks
+---
+
+I came across this website <a target="_blank" href="http://portableapps.com/">portableapps.com</a>  [The link won't work in IE 6 BTW...atleast for me it didn't work]. They have got bunch of applications which are "portable" meaning u can carry them on a flash drive,iPod or portable hard drive with you. In short you can carry your favorite programs with your personal settings,bookmarks, emails and so on with you & use them from any windows based machine. The best part is you need not worry about leaving any personal data behind. Just plug-in your portable memory and use them as you would use them on your local machine. These portable applications are lighter versions of their full-featured, heavy & install-me originals.
+
+Most noticeable <a target="_blank" href="http://portableapps.com/apps">portapps</a>  listed on their website are
+<ol>
+	<li>Mozilla Firefox, Portable Edition - the award-winning web browser that's safe and secure</li>
+	<li>Thunderbird Portable [u can setup lite version of Thunderbird on your portable drive and check/compose/reply your mails offline. This is especially useful when you have limited access to internet and do not wish to spend much time in the internet cafe. Just connect and send/receive]</li>
+	<li>Sumatra PDF Viewer [a lightweight PDF viewer application approx 1 mb in size with basic PDF viewing functions]</li>
+	<li>GIMP Portable [Photo editor]</li>
+	<li>FileZilla Portable [the full-featured FTP client]</li>
+	<li>VLC Media Player Portable [simple yet very very useful media player...can play tons of file formats]</li>
+	<li>7-Zip Portable - File archiver and compressor</li>
+	<li>OpenOffice.org Portable  - word processor, spreadsheet, presentations with Microsoft compatibility</li>
+</ol>
+If you are always on the run, can't carry your notebook and have limited internet access get a flash-drive and carry these handful of portable applications your life would be much easier and you need not worry about internet cafe machines not having your favorite programs or leaving your footprint on them.
+
+I wish I had these at my disposal when I was a student and had to visit internet cafes to research  for my projects and assignments. 
+
+- Ashish

@@ -1,0 +1,54 @@
+---
+layout: post
+title: Looking through my window
+---
+
+<a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0035.jpg" title="Sunset out of my bigger bedroom window"></a>
+<p align="center"><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/why-projects-fail-presentation-screenshot.png" title="Why projects fail"></a>
+
+
+Well this is going to be little longer post than earlier ones considering its been a month since I posted last time. Last month was considerably busy than the previous ones and I mean really busy. Less physically and more mentally so to say. Among other mudane things that I do at my work I was busy mentoring a new joinee and working on a tricky project which is rapidly turning into a crisis.
+
+The thing that I learned last couple of weeks is that knowing something and being able to teach it is quite difficult unless you are prepared. It was even more challenging for me as the new girl on board is a fresh graduate and isn't comfortable comminicating in english. At times I feel so tired explaining her since english isn't my first language either. Nevertheless it is great learning curve for myself especially when I am relying more on visual techiniques while teaching programming. It gives me chance to be little creative ;) My efforts paid off when I took a little test of her on the topics that I had tought her so far n guess what she passed the test. Not exactly with flying colors but so much to my relief she passed comfortably. I tried my best not to be baised especially because her performance was directly linked to my own performance as a mentor.
+
+Apart from teaching my student about programming basics, throwing difficult assignments and trying to understand her queries and managing to answer them muh to her satisfaction I was also busy with one important project which is to be delivered by mid of October. Working as a programmer for over 4 years and having worked on different size of projects I think I am qualified to say I can atleast gauge when something is not going right in my project and point out what needs to be done to fix them. Often number one killer of projects is reagared to a communication gap between stake holders and in my case it is prominent since we do not have a language in which either party is comfortable in communicating in the first place. but I feel it brings more responsibility to myself and others. Instead of focusing on bridgeing this gap I realized we were moved further since we were/are communicating through project deliverables and fixing the discrepancies.
+
+But as they say you can not fix a problem untill you know what the probelm is, I have myself committed to overcome this problem.  And guess what, I have received my <a target="_blank" href="http://www.headfirstlabs.com/books/hfpmp/">Head First PMP</a> copy couple of days ago <:-P yoyo I have already covered over 100 pages of the book but judging from my previous Head First book reading experience I have decided to go at relatively slow pace reading this book. Also I have started to do some research on Project Management [here onwards refered as PM]. First thing that I wanted to know was what makes projects delay, slip on the schedules, get overbudget n even crash. Luckly for me I didn't need to look to far away. I checked out <a target="_blank" href="http://www.stellman-greene.com/">HFPMP authors blog</a> and they have put up a fantastic presentation unsurprisingly titled <a target="_blank" href="http://www.stellman-greene.com/2007/06/27/iasa-nycjava-thanks-for-having-us-by-2/">Why Projects Fail</a>.
+
+<a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/why-projects-fail-presentation-screenshot.png" title="Why projects fail"></a>
+
+<a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/why-projects-fail-presentation-screenshot.png" title="Why projects fail"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/why-projects-fail-presentation-screenshot.png" title="Why projects fail"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/why-projects-fail-presentation-screenshot.png" title="Why projects fail"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/why-projects-fail-presentation-screenshot.png" title="Why projects fail"></a>
+<p style="text-align:center;"><img border="1" width="400" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/why-projects-fail-presentation-screenshot.png" alt="Why projects fail" height="300" />
+
+
+Here are links to their presentation <a target="_blank" href="http://www.stellman-greene.com/blog/wp-content/uploads/2007/06/why-projects-fail.ppt">ppt</a> and <a target="_blank" href="http://www.stellman-greene.com/blog/wp-content/uploads/2007/06/why-projects-fail.pdf">pdf</a> files. i will keep you posted about my further PM adventures ;-)
+
+Last but not the least last saturday I was fortunate enough to reach my appartment early in the evening i.e. before the sun went down and here is what i could see right out of my bedroom window.
+<p style="text-align:center;"><img border="0" width="400" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0035.jpg" alt="Sunset out of my bigger bedroom window" height="300" />
+
+
+<a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0035.jpg" title="Sunset out of my bigger bedroom window"></a>
+
+and here is another one from my other bedroom window. Yes there is a lake sharing border with my appartment building ;-)
+<p style="text-align:center;"><img border="1" width="400" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0037.jpg" alt="Lake view" height="300" />
+
+
+<a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0037.jpg" title="Lake view"></a>
+
+<a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0048.jpg" title="Lake as seen on a late afternoon"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0048.jpg" title="Lake as seen on a late afternoon"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0048.jpg" title="Lake as seen on a late afternoon"></a><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0048.jpg" title="Lake as seen on a late afternoon"></a>
+<p style="text-align:center;"><img border="1" width="400" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0048.jpg" alt="Lake as seen on a late afternoon" height="300" />
+
+
+and finally the clouds
+<p style="text-align:center;"><img border="1" width="400" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0049.jpg" alt="Clouds" height="300" />
+
+
+<a href="http://tumbling.in/taiwan/wp-content/uploads/2007/10/cimg0049.jpg" title="Clouds"></a>
+
+ I was amazed to see these views right out of my window. Don't they say "Life is what happens to you when you are busy making other plans".
+
+Looking forward I have a good news to share. We would be moving to our new office and I can not wait to move there. Reasons plenty. But most prominant would be that I wouldn't need to spend lot of time commuting to my office. Since the new office is near train station i can reach my office in less than 1 hrs time as compared to 1 n half hr which I spend now. Another plus is since i am going to take train i could utilize my time reading book or even doing something constructive on my thinkpad ;-) Otherwise everyday I ride my bike to a common pickup point from where my colleague picks me up every morning and drops me on the way back in his car.  This way I can save a lot more than taking a train but I think the other way works better for me. 3 hours of my waking time is more valuable than 150 NT$ that I save by taking his car  :D
+
+In the next post I will show you my new office. Last time I had been there I didn't have my normal digital camera. I did click some snaps by my SE W850i but the quality isn't that great. I would rather wait till my office is settled and take pictures using my camera with high resolution.
+
+- Ashlin
