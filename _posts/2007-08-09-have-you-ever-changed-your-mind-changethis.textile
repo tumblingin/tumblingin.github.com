@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Have you ever changed your mind? ChangeThis
+categories:
+- Taiwan
+tags:
+- news
 ---
 
 I am an avid fan of <a target="_blank" href="http://changethis.com/" title="changeThis.com">changethis.com </a>here are the words from them to explain their idea ...

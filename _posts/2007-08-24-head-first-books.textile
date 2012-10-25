@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Head First Books
+categories:
+- Taiwan
+tags:
+- news
 ---
 
 <table width="100%">
