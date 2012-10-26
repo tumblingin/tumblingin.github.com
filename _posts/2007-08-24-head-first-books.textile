@@ -7,8 +7,6 @@ tags:
 - news
 ---
 
-<table width="100%">
-
 <td width="100%"><a href="http://tumbling.in/taiwan/wp-content/uploads/2007/08/hfj.gif" title="Head First Java"><img align="center" src="http://tumbling.in/taiwan/wp-content/uploads/2007/08/hfj-150x150.gif" alt="Head First Java" /></a>
 |
 

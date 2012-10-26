@@ -8,12 +8,10 @@ tags:
 - sports
 ---
 
-<table border="0" width="100%">
 
-<td align="right"><a target="_blank" href="http://www.rugbyworldcup.com/index.html"><img align="right" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/irb.jpg" alt="Rugby World cup 2007" /></a>
-<td width="50%" align="left"><a target="_blank" href="http://www.formula1.com"><img width="128" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/f1.jpg" alt="Formula 1" height="95" /></a>
-|
+<a target="_blank" href="http://www.rugbyworldcup.com/index.html"><img align="right" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/irb.jpg" alt="Rugby World cup 2007" /></a>
 
+<a target="_blank" href="http://www.formula1.com"><img width="128" src="http://tumbling.in/taiwan/wp-content/uploads/2007/10/f1.jpg" alt="Formula 1" height="95" /></a>
 
 We have two biggest sporting events lined up on this coming weekend.
 bq. On Saturday 20th Oct England will take on South Africa in their second successive Rugby World Cup final at Stade de France stadium, Saint Denis north of Paris.
@@ -30,5 +28,3 @@ Come Sunday we will have a grand ending to a F1 season which was marked by drama
 I am going to wrap up this little project of mine by this Friday and really hoping to relish these two of the biggest sporting events in recent times. 
 
 [Update on 21 Oct, 07] Excruciating weekend for England. First they lost Rugby Worlf Cup final to Springboks i.e South Africa by 15-6. The match wasn't exactly entertaining but hell SA was a better team & deserved to win. As if the pain of loosing Rugby World Cup wasn't enough British driver Lewis Hamilton who was at the top of the standings in F1 lost world championship to Kimi Raikkonen by a Single Point. It can't get more painful than this, can it?
-
-- Ashlin
