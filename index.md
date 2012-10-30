@@ -1,13 +1,17 @@
 ---
 layout: page
-title: 
-tagline: 
+title: Home
 ---
-{% include JB/setup %}
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+<!-- Show last 5 posts here -->
+{% for post in site.posts limit: 5  %}
+  <p class="date">{{ post.date | date_to_string }}</p>
+  <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+  {{ post.content }}
+  <p> Tags |
+  {% for tag in post.tags %}
+    <a href="#">{{ tag }}</a> |
   {% endfor %}
-</ul>
-
+  </p>
+  <hr/>
+{% endfor %}
